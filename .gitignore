@@ -1,0 +1,24 @@
+# Ignore virtual environments
+venv/
+backend/venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# SQLite database (if using)
+db.sqlite3
+
+# Build artifacts
+build/
+dist/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
